@@ -1,6 +1,6 @@
 # Textbook
 
-import flet as ft 
+import flet as ft
 
 def main(page):
     def btn_click(e):
